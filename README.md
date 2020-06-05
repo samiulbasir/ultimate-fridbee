@@ -1,1 +1,1 @@
-# ultimate-fridbee
+# ultimate-frisbee
